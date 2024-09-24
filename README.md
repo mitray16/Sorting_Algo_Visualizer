@@ -20,10 +20,12 @@ A sample preview of the visualizer in action.
 
 ## Installation
 
-Clone this repository:`
+Clone this repository:
+```bash
 git clone https://github.com/mitray16/Sorting_Algo_Visualizer.git
 cd Sorting_Algo_Visualizer
-pip install -r requirements.txt 
+pip install -r requirements.txt
+```
 
 ## How It Works
 1. Select a sorting algorithm from the options available.

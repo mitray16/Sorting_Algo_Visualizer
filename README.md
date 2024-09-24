@@ -20,10 +20,21 @@ A sample preview of the visualizer in action.
 
 ## Installation
 
-Clone this repository:
-```bash
+Clone this repository:`
 git clone https://github.com/mitray16/Sorting_Algo_Visualizer.git
 cd Sorting_Algo_Visualizer
-pip install -r requirements.txt
-'''
+pip install -r requirements.txt 
+
+## How It Works
+1. Select a sorting algorithm from the options available.
+2. Watch as the array is sorted visually, with different colors highlighting the sorting process.
+   - **Blue**: Unsorted portion
+   - **Green**: Sorted portion
+
+## Sorting Algorithms Explained
+
+- **Merge Sort**: A divide-and-conquer algorithm that splits the array into smaller subarrays and then merges them back together in sorted order.
+- **Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+- **Selection Sort**: A simple, in-place comparison-based sorting algorithm that divides the list into a sorted and unsorted region and iteratively selects the smallest element from the unsorted region.
+- **Quick Sort**: A highly efficient sorting algorithm that uses the divide-and-conquer approach to partition the array into smaller arrays based on a pivot element.
 
